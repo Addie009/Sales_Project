@@ -14,7 +14,7 @@ Consist of the unit cost per product, the unit cost per profit, the total revenu
 I got the dataset from kaggle.com and loaded it to Excel, checked for duplicates by using the duplicate icon and had to filter the data by using the filter icon to check for missing or blank rows in the dataset. 
 Used the IF statement to create a new column by grouping the age of the customers from Young to Senior and also used the IF statement to create a new column for gender. 
 
-After checking for duplicates, missing values and blank rows, I was left with about 112,000 rows. The dataset is well structured. 
+After checking for duplicates, missing values and blank rows, I was left with about 112,000 rows. 
 
 # Problem Statement
 
@@ -29,6 +29,10 @@ WHICH COUNTRY HAS THE HIGHEST REVENUE?
 WHICH PRODUCT CATEGORY HAD THE HIGHEST REVENUE GENERATED OVER THE PERIOD OF SIX YEARS?
 
 WHICH SUB-PRODUCT WAS PURCHASED THE MOST OVER THE PERIOD OF SIX YEARS?
+
+# Visualization Tool
+
+Im using PowerBI for visualization.
 
 # Key Sales Insights
 
